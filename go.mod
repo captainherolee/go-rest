@@ -1,4 +1,4 @@
-module go-rest
+module gihtub.com/captainherolee/go-rest
 
 go 1.19
 
