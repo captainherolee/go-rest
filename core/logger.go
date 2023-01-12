@@ -3,7 +3,7 @@ package core
 import (
 	"os"
 
-	pluginLogrus "go-rest/plugin/logrus"
+	pluginLogrus "github.com/captainherolee/go-rest/plugin/logrus"
 
 	"github.com/getsentry/raven-go"
 	"github.com/sirupsen/logrus"

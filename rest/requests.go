@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"time"
 
-	"go-rest/core"
+	"github.com/captainherolee/go-rest/core"
 )
 
 type Request struct {

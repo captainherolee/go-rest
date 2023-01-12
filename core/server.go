@@ -10,7 +10,7 @@ import (
 	"syscall"
 	"time"
 
-	pluginEcho "go-rest/plugin/echo"
+	pluginEcho "github.com/captainherolee/go-rest/plugin/echo"
 
 	"github.com/getsentry/raven-go"
 

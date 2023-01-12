@@ -1,4 +1,4 @@
-module gihtub.com/captainherolee/go-rest
+module github.com/captainherolee/go-rest
 
 go 1.19
 
